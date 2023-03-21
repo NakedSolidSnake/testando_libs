@@ -1,0 +1,6 @@
+[requires]
+librdkafka/2.0.2
+glib/2.75.3
+
+[generators]
+cmake
